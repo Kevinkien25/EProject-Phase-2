@@ -38,7 +38,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture** kế
 ![Add Product](api_test/post-product.png)
 
 ### Get Product:
-![Get Product](api_test/get-product.png)
+![Get Product]([api_test/get-product.png](https://github.com/Kevinkien25/EProject-Phase-2/blob/main/api-test/get-product.png))
 
 ### Post Order Product:
 ![Post Order Product](api_test/post-order-product.png)
