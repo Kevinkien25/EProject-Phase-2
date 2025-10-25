@@ -27,7 +27,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture** kế
 - **Postman** – kiểm thử API  
 ---
 
-## 🧪 Ví dụ một số ảnh test API
+##  Ví dụ một số ảnh test API
 ### Register user: 
 ![image_alt](https://github.com/Kevinkien25/EProject-Phase-2/blob/9da8df44361ed00d952a3e225ad1f46a535d557a/api-test/register.png)
 
