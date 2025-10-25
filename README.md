@@ -29,16 +29,16 @@ Dự án được thiết kế theo mô hình **Microservice Architecture** kế
 
 ## 🧪 Ví dụ một số ảnh test API
 ### Register user: 
-![Register User](../api_test/register.png)
+![image_alt](https://github.com/Kevinkien25/EProject-Phase-2/blob/9da8df44361ed00d952a3e225ad1f46a535d557a/api-test/register.png)
 
 ### Login: 
-![Login](api_test/login.png)
+![image_alt](https://github.com/Kevinkien25/EProject-Phase-2/blob/9da8df44361ed00d952a3e225ad1f46a535d557a/api-test/login.png)
 
 ### Add Product:
-![Add Product](api_test/post-product.png)
+![image_alt](https://github.com/Kevinkien25/EProject-Phase-2/blob/9da8df44361ed00d952a3e225ad1f46a535d557a/api-test/post-product.png)
 
 ### Get Product:
 ![image_alt](https://github.com/Kevinkien25/EProject-Phase-2/blob/de362c8eac788c56764a82b6102a26b965baa75c/api-test/get-product.png)
 
 ### Post Order Product:
-![Post Order Product](api_test/post-order-product.png)
+![image_alt](https://github.com/Kevinkien25/EProject-Phase-2/blob/9da8df44361ed00d952a3e225ad1f46a535d557a/api-test/post-order-product.png)
