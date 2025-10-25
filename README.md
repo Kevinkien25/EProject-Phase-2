@@ -1,6 +1,6 @@
-# 🧩 E-Commerce Microservices Project
+# E-Commerce Microservices Project
 
-## 🏗️ Cấu trúc Microservice
+## Cấu trúc Microservice
 
 Dự án được thiết kế theo mô hình **Microservice Architecture** kết hợp tư tưởng **Clean Architecture**  
 → đảm bảo tính **module hóa**, **loose coupling** và dễ dàng mở rộng.
@@ -11,7 +11,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture** kế
 - Dữ liệu lưu trong **MongoDB** (mỗi service có database riêng)
 ---
 
-### 📂 Cấu trúc thư mục chính
+### Cấu trúc thư mục chính
 - api-gateway/ — API gateway
 - - api_test/ — ảnh chụp màn hình các API tests (cho cái README)
 - auth/ — authentication microservice
@@ -20,7 +20,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture** kế
 - utils/ — helper chung
 
 ---
-## 🧰 Công nghệ sử dụng
+## Công nghệ sử dụng
 
 - **Node.js / Express.js** – backend framework  
 - **MongoDB / Mongoose** – cơ sở dữ liệu NoSQL  
