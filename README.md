@@ -29,7 +29,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture** kế
 
 ## 🧪 Ví dụ một số ảnh test API
 ### Register user: 
-![Register User](api_test/register.png)
+![Register User](../api_test/register.png)
 
 ### Login: 
 ![Login](api_test/login.png)
