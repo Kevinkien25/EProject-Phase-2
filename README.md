@@ -40,10 +40,9 @@
 ![image_alt](https://github.com/Kevinkien25/EProject-Phase-2/blob/9da8df44361ed00d952a3e225ad1f46a535d557a/api-test/post-order-product.png)
 
 ---
+## Lệnh cài đặt & start port
 
-## Lệnh cài đặt & Load
-
-# Cài đặt toàn bộ
+### Cài đặt toàn bộ:
 npm install
-# Load từng service
+### Start từng service:
 npm index.js
