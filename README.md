@@ -2,10 +2,6 @@
 
 ## Cấu trúc Microservice
 
-Dự án được thiết kế theo mô hình **Microservice Architecture** kết hợp tư tưởng **Clean Architecture**  
-→ đảm bảo tính **module hóa**, **loose coupling** và dễ dàng mở rộng.
-
-
 - Mỗi service chạy độc lập (Node.js + Express)
 - Giao tiếp giữa các service qua **REST API** hoặc **RabbitMQ**
 - Dữ liệu lưu trong **MongoDB** (mỗi service có database riêng)
@@ -13,7 +9,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture** kế
 
 ### Cấu trúc thư mục chính
 - api-gateway/ — API gateway
-- - api_test/ — ảnh chụp màn hình các API tests (cho cái README)
+- - api_test/ — ảnh chụp các API tests (cho cái README)
 - auth/ — authentication microservice
 - product/ — product microservice
 - order/ — order microservice
@@ -42,3 +38,12 @@ Dự án được thiết kế theo mô hình **Microservice Architecture** kế
 
 ### Post Order Product:
 ![image_alt](https://github.com/Kevinkien25/EProject-Phase-2/blob/9da8df44361ed00d952a3e225ad1f46a535d557a/api-test/post-order-product.png)
+
+---
+
+## Lệnh cài đặt & Load
+
+# Cài đặt toàn bộ
+npm install
+# Load từng service
+npm index.js
